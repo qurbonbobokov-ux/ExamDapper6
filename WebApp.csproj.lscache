@@ -70,7 +70,7 @@ obj/Debug/net10.0/
 Program.cs
 
 [metadataReferences]
-../../../../../../../../usr/local/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/10.0.2/ref/net10.0/
+../../../../../usr/local/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/10.0.2/ref/net10.0/
  Microsoft.AspNetCore.Antiforgery.dll
  Microsoft.AspNetCore.Authentication.Abstractions.dll
  Microsoft.AspNetCore.Authentication.BearerToken.dll
@@ -211,7 +211,7 @@ Program.cs
  System.Formats.Cbor.dll
  System.Security.Cryptography.Xml.dll
  System.Threading.RateLimiting.dll
-../../../../../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.2/ref/net10.0/
+../../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.2/ref/net10.0/
  Microsoft.CSharp.dll
  Microsoft.VisualBasic.Core.dll
  Microsoft.VisualBasic.dll
@@ -392,7 +392,7 @@ Program.cs
  swashbuckle.aspnetcore.swaggerui/10.1.7/lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 
 [analyzerReferences]
-../../../../../../../../usr/local/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/10.0.2/analyzers/dotnet/cs/
+../../../../../usr/local/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/10.0.2/analyzers/dotnet/cs/
  Microsoft.AspNetCore.App.Analyzers.dll
  Microsoft.AspNetCore.App.CodeFixes.dll
  Microsoft.AspNetCore.App.SourceGenerators.dll
@@ -400,25 +400,25 @@ Program.cs
  Microsoft.Extensions.Logging.Generators.dll
  Microsoft.Extensions.Options.SourceGeneration.dll
  Microsoft.Extensions.Validation.ValidationsGenerator.dll
-../../../../../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.2/analyzers/dotnet/cs/
+../../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.2/analyzers/dotnet/cs/
  Microsoft.Interop.ComInterfaceGenerator.dll
  Microsoft.Interop.JavaScript.JSImportGenerator.dll
  Microsoft.Interop.LibraryImportGenerator.dll
  Microsoft.Interop.SourceGeneration.dll
  System.Text.Json.SourceGeneration.dll
  System.Text.RegularExpressions.Generator.dll
-../../../../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk.Razor/source-generators/
+../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk.Razor/source-generators/
  Microsoft.AspNetCore.Razor.Utilities.Shared.dll
  Microsoft.CodeAnalysis.Razor.Compiler.dll
  Microsoft.Extensions.ObjectPool.dll
-../../../../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk.Web/analyzers/cs/
+../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk.Web/analyzers/cs/
  Microsoft.AspNetCore.Analyzers.dll
  Microsoft.AspNetCore.Mvc.Analyzers.dll
-../../../../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk/analyzers/
+../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk/analyzers/
  Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
  Microsoft.CodeAnalysis.NetAnalyzers.dll
 <NUGET>/microsoft.aspnetcore.openapi/10.0.2/analyzers/dotnet/cs/Microsoft.AspNetCore.OpenApi.SourceGenerators.dll
 
 [analyzerConfigFiles]
-../../../../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_10_default.globalconfig
+../../../../../usr/local/share/dotnet/sdk/10.0.102/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_10_default.globalconfig
 obj/Debug/net10.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig

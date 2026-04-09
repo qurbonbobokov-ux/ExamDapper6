@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/WebApp/WebApp.csproj": {}
+    "/Users/user/Desktop/Exam6/WebApp/WebApp.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj": {
+    "/Users/user/Desktop/Exam6/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Exam6/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj",
+        "projectPath": "/Users/user/Desktop/Exam6/Domain/Domain.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/obj/",
+        "outputPath": "/Users/user/Desktop/Exam6/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/Infrastructure.csproj": {
+    "/Users/user/Desktop/Exam6/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Exam6/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/user/Desktop/Exam6/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/obj/",
+        "outputPath": "/Users/user/Desktop/Exam6/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj": {
-                "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj"
+              "/Users/user/Desktop/Exam6/Domain/Domain.csproj": {
+                "projectPath": "/Users/user/Desktop/Exam6/Domain/Domain.csproj"
               }
             }
           }
@@ -684,14 +684,14 @@
         }
       }
     },
-    "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/WebApp/WebApp.csproj": {
+    "/Users/user/Desktop/Exam6/WebApp/WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/WebApp/WebApp.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Exam6/WebApp/WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/WebApp/WebApp.csproj",
+        "projectPath": "/Users/user/Desktop/Exam6/WebApp/WebApp.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/WebApp/obj/",
+        "outputPath": "/Users/user/Desktop/Exam6/WebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -706,11 +706,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj": {
-                "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Domain/Domain.csproj"
+              "/Users/user/Desktop/Exam6/Domain/Domain.csproj": {
+                "projectPath": "/Users/user/Desktop/Exam6/Domain/Domain.csproj"
               },
-              "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/user/Desktop/DOTNET/DOTNET2/DAY4/Exam/Infrastructure/Infrastructure.csproj"
+              "/Users/user/Desktop/Exam6/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/user/Desktop/Exam6/Infrastructure/Infrastructure.csproj"
               }
             }
           }
